@@ -1,0 +1,554 @@
+@media screen and (max-width: 1260px) {
+
+h2 {
+    font-size: 2.3rem;
+    line-height: 3.6rem;
+}
+
+p.header__text {
+    font-size: 1.6rem;
+    line-height: 2rem;
+    padding: 0 0.8rem;
+}
+
+.container {
+    width: 100%;
+    max-width: 760px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.section-first .videobg {
+    display: none;
+}
+
+.section-first .part2 {
+    max-width: none;
+    margin:0 auto;
+    padding-top: 11.3rem;
+    order: 1;
+    padding-bottom: 0.8rem;
+}
+
+.section-first .part1 {
+    margin:0 auto;
+    order: 2;
+    padding-top: 2.5rem;
+}
+
+.section-result .item {
+    max-width: 360px;
+}
+
+.section-result .text {
+    margin-bottom: 4rem;
+}
+
+.section-result .block {
+    margin-bottom: 5rem;
+}
+
+.section-vacancy {
+    padding: 2rem 0;
+}
+
+.section-area .items {
+    height: auto;
+    max-width: 100%;
+    columns: 2;
+    text-align: center;
+}
+
+.section-area .items li {
+    display: block;
+    position: relative;
+    left: auto;
+    top: auto;
+    bottom: auto;
+    right: auto;
+}
+
+.section-for .item {
+    max-width: 240px;
+    padding: 0.8rem; 
+}
+
+.section-for .item__title {
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+    margin-bottom: 0.4rem;
+}
+
+.section-for .item__text {
+    font-size: 1rem;
+    line-height: 1.4rem;
+}
+
+.section-how .items { 
+    margin-top: 5rem;
+}
+
+.section-how .item { 
+    margin-bottom: 3.7rem;
+}
+
+.section-how .item__text {
+    font-size: 1.3rem;
+}
+
+.section-program .item {
+    max-width: 150px;
+    margin: 0 0.8rem;
+}
+
+.section-program .program__header {
+    display: none;
+}
+
+.section-program .module__header {
+    max-width: 340px;
+}
+
+.section-program .module__title, 
+.section-program .module__number {
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+}
+
+.section-program .module__body {
+    max-width: 400px;
+    padding: 0.8rem;
+}
+
+.section-program .lesson {
+    margin-bottom: 1.6rem;
+}
+
+.section-program .lesson__title {
+    font-size: 1.6rem;
+    line-height: 2rem;
+}
+
+.section-program .module__footer {
+    max-width: 100%;
+}
+
+.section-speakers .speakers__list {
+    display: none;
+}
+
+.section-speakers .speakers__slider {
+    margin:0 auto;
+}
+
+.prev, .next {
+    color: #A3E714;
+    font-size: 5rem;
+}
+
+.prev {
+    left: -110px;
+}
+
+.section-theory .item {
+    max-width: 240px;
+    padding: 0.8rem;
+}
+
+.section-theory .item__title {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+}
+
+.section-theory .item__text {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.section-packages .package {
+    max-width: 360px;
+    margin: 0 5px;
+    margin-bottom: 2.5rem;
+}
+
+.section-need .part1 {
+    max-width: 360px;
+}
+
+.section-need h2 {
+    font-size: 30px;
+}
+
+.section-need .subtitle {
+    font-size: 20px;
+    line-height: 2.5rem;
+}
+
+.section-need .part2 {
+    max-width: 360px;
+    padding: 0.8rem;
+}
+
+.section-need .list li {
+    font-size: 1.2rem;
+}
+
+.section-reviews .reviews__slider {
+    max-width: 440px;
+}
+
+.section-reviews .slick-dots {
+    right: 106px;
+}
+
+.section-reviews .reviews__info_text {
+    font-size: 1.3rem;
+}
+
+}
+
+@media screen and (max-width: 867px) {
+
+.prev {
+    left: -10%;
+    margin: 0 5px;
+}
+
+.next {
+    right: -10%;
+    margin: 0 5px;
+}
+
+}
+
+@media screen and (max-width: 760px) {
+
+.section-first h1 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+    
+h2 {
+    font-size: 2rem;
+    line-height: 2rem;
+    padding: 0 1rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+    line-height: 2rem;
+}
+
+.header__text {
+    order: 3;
+    font-size: 1rem;
+    width: 100%;
+    margin-top: -10px;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 0.8rem;
+    margin: 0 auto;
+}
+
+.section-result .items {
+    justify-content: space-around;
+}
+
+.section-vacancy {
+    display: none;
+}
+
+.section-for .items {
+    justify-content: space-around;
+}
+
+.section-for .item {
+    max-width: 80%;
+    margin-bottom: 1.6rem;
+}
+
+.section-for .item__title {
+    height: auto;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    padding: 10px;
+}
+    
+.section-for .item__text {
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    padding: 0.8rem;
+}
+
+.section-program .items {
+    align-items: baseline;
+}
+
+.section-program .item {
+    max-width: 200px;
+    margin: 5px;
+}
+
+.section-program .module {
+    padding-top: 1.6rem;
+    padding-bottom: 0;
+    border: 2px solid #A3E714;
+    justify-content: space-around;
+}
+
+.section-program .module__header {
+    text-align: center;
+}
+
+.section-program .module__title {
+    margin-bottom: 2.5rem;
+}
+
+.section-program .module__speaker_photo {
+    margin: 0 auto;
+}
+
+.section-program .lesson__title {
+    font-size: 1.3rem;
+}
+
+.section-program .module__body {
+    max-width: 100%;
+}
+
+.section-program .lesson__info li {
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    line-height: 1.7rem;
+}
+
+.section-program .module__footer {
+    padding: 0.8rem;
+}
+
+.section-program .module__practic {
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.section-speakers {
+    padding-top: 0;
+}
+
+.section-speakers .speakers {
+    justify-content: space-around;
+}
+
+.section-speakers .speakers__slider .speaker {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.section-speakers .speakers__slider .speaker__photo {
+    transform: none;
+    max-width: 100%;
+    text-align: center;
+    padding-top: 0.8rem;
+}
+
+.section-speakers .speakers__slider .speaker__photo img {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.section-speakers .speakers__slider .speaker__info {
+    max-width: 100%;
+    text-align: center;
+}
+
+.section-speakers .speakers__slider .speaker__bio {
+    text-align: left;
+    padding: 0.8rem 1.6rem;
+    min-height: auto; 
+}
+
+.section-speakers .speakers__slider .speaker__bio li {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
+.section-theory .items {
+    justify-content: space-around;
+}
+
+.section-theory .item {
+    max-width: 80%;
+    margin-bottom: 1.6rem;
+    padding: 1.6rem;
+}
+
+.section-theory .item__title {
+    height: auto;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    padding: 0.8rem;
+}
+
+.section-theory .item__text {
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    padding: 0.8rem;
+}
+
+.section-need .container {
+    justify-content: space-around;
+}
+
+.section-need h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1.6rem;
+}
+
+.section-need .subtitle {
+    margin-bottom: 2.5rem;
+    padding: 0 0.8rem;
+}
+
+.section-need .part2 {
+    margin-top: 2.5rem;
+}
+
+.section-reviews .reviews {
+    margin-top: 1.6rem;
+    justify-content: space-around;
+}
+
+.section-reviews .reviews__slider {
+    order: 2;
+}
+
+.section-reviews .slick-prev {
+    left: 0;
+    right: auto;
+    top: -60px;
+    transform: none;
+}
+
+.section-reviews .slick-next {
+    right: 0;
+    top: -60px;
+    transform: none;
+}
+
+.section-reviews .slick-dots {
+    top: -50px;
+    transform: none;
+    left: 0;
+}
+
+.section-reviews .reviews__info {
+    text-align: center;
+    order: 1;
+    margin-bottom: 3.3rem;
+}
+}
+
+@media screen and (max-width: 687px) {
+
+.section-speakers .speakers__slider .speaker {
+    width: 75%;
+}
+
+.prev,
+.next {
+    font-size: 3.3rem;
+}
+
+.prev {
+    left: -5%;
+}
+
+.next {
+    right: -5%;
+}
+}
+
+@media screen and (max-width: 447px) {
+
+.header__text {
+    margin-top: 0.8rem;
+}
+
+a.btn {
+    width: 85%;
+    line-height: 4.5rem;
+}
+
+.section-first .subtitle {
+    padding-left: 2.25rem;
+}
+
+.section-result {
+    padding-top: 5rem;
+}
+
+.section-result .block__text {
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+}
+
+.section-area .items li {
+    font-size: 1.5rem;
+}
+
+.section-how .item {
+    justify-content: space-around;
+}
+
+.section-how .item__text {
+    padding: 0.8rem;
+}
+
+.section-speakers .speakers__slider .speaker__info {
+    padding-bottom: 0.5rem;
+}
+
+.section-speakers .speakers__slider .speaker__bio li {
+    margin-bottom: 0.5rem;
+}
+
+.section-first h1 {
+    font-size: 2rem;
+}
+
+.section-area .items {
+    columns: 1;
+}
+
+.section-how .item__text {
+    text-align: center;
+}
+
+footer .icon-soc {
+    margin: 0 1rem;
+    width: 25px;
+    height: 25px;   
+}
+
+footer .icon-soc i {
+    font-size: 1.1rem;
+    line-height: 2.2rem;
+}
+
+.footer1, .footer2, .footer3 {
+    margin: 0 auto;
+}
+
+.footer3 p.text4 {
+    text-align: center;
+}
+
+.footer3 p.text4 span a {
+    padding-right: 0;
+    float: none;
+}
+}
