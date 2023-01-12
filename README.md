@@ -2,7 +2,8 @@
 
 Project about educational course «Project management».<br>
 **Used technologies**: Flex / Js, JQuery / adaptive and responsive design.<br>
-Preview website by the link: https://pesukarhutg.github.io/course-pm/ <br><br>
+
+<h2 align="center"><a href="https://pesukarhutg.github.io/course-pm/" target="_blank">Deploy link</a></h2>
 
 [![Preview](https://github.com/PesukarhuTG/course-pm/blob/master/assets/preview/Screen-first.JPG)](https://pesukarhutg.github.io/course-pm/)
 
